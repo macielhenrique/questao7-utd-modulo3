@@ -1,0 +1,5 @@
+arroz branco - 5.50 - 00001 - 100
+arroz parbolizado - 5.75 - 00002 - 50
+feijão corda - 6.00 - 00003 - 75
+Feijão Carioca - 6.50 - 00004 - 50
+acuçar - 5.00 - 00005 - 25
