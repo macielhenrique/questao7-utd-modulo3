@@ -1,5 +1,5 @@
 <?php
-
+#questão-7
  #receber os dados do formulário
  $dados= $_POST;
 
